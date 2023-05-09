@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Oooh+Baby&display=swap");
+
+body {
+    background-image: url("stars.jpg");
+    background-size: cover;
+    font-family: 'Oooh Baby', cursive;
+    font-weight: bold;
+    text-align: center;
+    height: 200vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px, solid, blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: royalblue;
+}
+
+#save-btn {
+    background: pink;
+}
+
+.width {
+    max-width: 250px;
+}
